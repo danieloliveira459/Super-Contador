@@ -5,7 +5,11 @@ Super Contador, Projeto básico para Fazer contagem
 Exemplo: contando:10 👉12 👉14 👉16 👉18 👉20 👉22 👉24 👉26 👉28 👉30 👉32 👉34 👉36 👉38 👉40 👉42 👉44 👉46 👉48 👉50 👉🏁🏁
 chegou na bandeirinha ele finaliza a contagem.
 
-#Tecnologias Usadas, HTML, CSS, JAVASCRIPT. 
+#Tecnologias Usadas
+*HTML
+*CSS
+*JAVASCRIPT
+
 #Estrutura do Projeto 
 CONTADOR
 * modelo.html
